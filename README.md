@@ -1,6 +1,6 @@
 # ˗ˏˋ☕ˎˊ˗ Starbucks Website Project
 
-This is a **fully responsive**, multi-page website project created for Starbucks. It is designed to replicate a modern **Starbucks website**, featuring various sections such as a homepage, menu, products, delivery information, contact, about, sign-up, log-in, and trainer profiles. This project was developed as part of an IT School Web Development course.
+This is a **fully responsive**, multi-page website project created for Starbucks. It is designed to replicate a modern **Starbucks website**, featuring various sections such as a homepage, menu, products, delivery information, contact, about, sign-up, log-in, and trainer profiles. 
 
 ---
 
