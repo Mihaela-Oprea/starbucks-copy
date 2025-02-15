@@ -30,3 +30,4 @@ This is a **fully responsive**, multi-page website project created for Starbucks
 - **Google Fonts & Material Symbols** - For custom typography and icons
 - **Font Awesome** - For additional icon support
 - **Google Maps API** - For embedding interactive maps
+
